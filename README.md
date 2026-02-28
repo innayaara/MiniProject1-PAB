@@ -20,12 +20,29 @@ Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar dan State Mana
 ## Fitur Aplikasi
 
 <details>
-<summary><1. Fitur Aplikasi</b></summary>
+<summary><b>1. Halaman Utama</b></summary>
+<br>
 
-penjelasan fitur
+<div align="center">
+  <img width="865" alt="Halaman Utama" 
+  src="https://github.com/user-attachments/assets/652f130d-84bd-46cd-b25d-03ee71be220e" />
+  
+  <p align="center">
+  <b><em>Halaman Utama</em></b><br>
+  Halaman utama menampilkan daftar produk yang telah ditambahkan oleh pengguna. 
+  Jika belum ada produk yang ditambahkan, maka akan muncul pesan 
+  <b>"Belum ada produk"</b> sebagai indikator bahwa data masih kosong.
+  <br><br>
+  Pada halaman ini juga terdapat beberapa komponen utama, yaitu:
+  <br>
+  - Banner aplikasi sebagai identitas visual<br>
+  - Judul aplikasi di bagian atas halaman<br>
+  - FloatingActionButton (+) untuk menambahkan produk baru<br>
+  </p>
 
-
-
+</div>
+<br>
 </details>
 
-</details>
+
+
