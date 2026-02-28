@@ -67,6 +67,10 @@ Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar dan State Mana
 <br>
 
 <div align="center">
+  <img width="942" height="1010" alt="image" 
+  src="https://github.com/user-attachments/assets/0652dbc5-0c8a-439d-ab4d-449e7f188803" />
+
+<div align="center">
   <p align="center">
   <b><em>Menampilkan Daftar Produk</em></b><br>
   Aplikasi menampilkan daftar produk dalam bentuk card. 
