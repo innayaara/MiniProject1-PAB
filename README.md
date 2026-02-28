@@ -126,7 +126,9 @@ Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar dan State Mana
 
 <div align="center">
 
-  
+  <img width="941" height="1020" alt="Screenshot 2026-02-28 140731" 
+  src="https://github.com/user-attachments/assets/e044dc45-1239-4467-8151-2c95be1bb2e5" />
+
   <p align="center">
   <b><em>Menghapus Produk</em></b><br>
   Pengguna dapat menghapus produk melalui tombol hapus. 
@@ -143,6 +145,13 @@ Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar dan State Mana
 <br>
 
 <div align="center">
+
+  <img width="944" height="226" alt="Screenshot 2026-02-28 140825" 
+  src="https://github.com/user-attachments/assets/8e7efa07-aa87-4882-82a8-4119774281e8" />
+
+  <img width="936" height="231" alt="Screenshot 2026-02-28 140851" 
+  src="https://github.com/user-attachments/assets/480a2eb4-139f-4de5-9d60-eece0cd93709" />
+
   <p align="center">
   <b><em>Notifikasi Aksi</em></b><br>
   Aplikasi menampilkan notifikasi (SnackBar) setelah berhasil menambahkan 
