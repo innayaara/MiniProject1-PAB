@@ -45,7 +45,7 @@ Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar dan State Mana
 </details>
 
 <details>
-<summary><b>1. Menambahkan Produk Baru</b></summary>
+<summary><b>2. Menambahkan Produk Baru</b></summary>
 <br>
 
 <div align="center">
