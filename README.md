@@ -62,5 +62,96 @@ Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar dan State Mana
 <br>
 </details>
 
+<details>
+<summary><b>3. Menampilkan Daftar Produk</b></summary>
+<br>
 
+<div align="center">
+  <p align="center">
+  <b><em>Menampilkan Daftar Produk</em></b><br>
+  Aplikasi menampilkan daftar produk dalam bentuk card. 
+  Setiap card berisi informasi nama produk, harga, dan stok yang tersedia.
+  Data akan muncul secara dinamis setelah produk ditambahkan.
+  </p>
+
+</div>
+<br>
+</details>
+
+<details>
+<summary><b>4. Empty State (Belum Ada Produk)</b></summary>
+<br>
+
+<div align="center">
+  <p align="center">
+  <b><em>Empty State</em></b><br>
+  Jika belum ada produk yang ditambahkan, aplikasi akan menampilkan pesan 
+  <b>"Belum ada produk"</b> sebagai indikator bahwa daftar masih kosong.
+  </p>
+
+</div>
+<br>
+</details>
+
+<details>
+<summary><b>5. Mengedit Produk</b></summary>
+<br>
+
+<div align="center">
+  <p align="center">
+  <b><em>Mengedit Produk</em></b><br>
+  Pengguna dapat mengubah data produk yang telah ditambahkan melalui tombol edit. 
+  Setelah perubahan disimpan, data pada halaman utama akan langsung diperbarui.
+  </p>
+
+</div>
+<br>
+</details>
+
+<details>
+<summary><b>6. Menghapus Produk dengan Konfirmasi</b></summary>
+<br>
+
+<div align="center">
+  <p align="center">
+  <b><em>Menghapus Produk</em></b><br>
+  Pengguna dapat menghapus produk melalui tombol hapus. 
+  Sebelum data dihapus secara permanen, akan muncul dialog konfirmasi 
+  untuk memastikan tindakan pengguna.
+  </p>
+
+</div>
+<br>
+</details>
+
+<details>
+<summary><b>7. Notifikasi Aksi (SnackBar)</b></summary>
+<br>
+
+<div align="center">
+  <p align="center">
+  <b><em>Notifikasi Aksi</em></b><br>
+  Aplikasi menampilkan notifikasi (SnackBar) setelah berhasil menambahkan 
+  atau menghapus produk sebagai bentuk feedback kepada pengguna.
+  </p>
+
+</div>
+<br>
+</details>
+
+<details>
+<summary><b>8. State Management</b></summary>
+<br>
+
+<div align="center">
+  <p align="center">
+  <b><em>State Management</em></b><br>
+  Aplikasi menggunakan <b>StatefulWidget</b> dan <b>setState()</b> 
+  untuk mengelola perubahan data sehingga tampilan dapat diperbarui 
+  secara otomatis tanpa perlu memuat ulang halaman.
+  </p>
+
+</div>
+<br>
+</details>
 
