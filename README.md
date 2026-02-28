@@ -201,4 +201,4 @@ Berikut adalah widget yang digunakan dalam pengembangan aplikasi **Nayo Boutique
   
 - **`Image.asset`**: Digunakan untuk menampilkan banner gambar pada halaman utama aplikasi.
 
-- **State Management (StatefulWidget & setState())**: Digunakan untuk mengelola perubahan data produk sehingga tampilan akan otomatis diperbarui ketika terjadi penambahan, pengeditan, atau penghapusan data.
+- **`State Management (StatefulWidget & setState())`**: Digunakan untuk mengelola perubahan data produk sehingga tampilan akan otomatis diperbarui ketika terjadi penambahan, pengeditan, atau penghapusan data.
