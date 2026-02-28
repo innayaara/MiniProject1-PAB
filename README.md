@@ -49,8 +49,8 @@ Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar dan State Mana
 <br>
 
 <div align="center">
-  <img width="865" alt="Halaman Utama" 
-  src="https://github.com/user-attachments/assets/652f130d-84bd-46cd-b25d-03ee71be220e" />
+  <img width="866" height="1016" alt="Menambahkan Produk Baru" 
+  src="https://github.com/user-attachments/assets/640f9234-9d1a-4496-94a7-6e4d8bc7fb13" />
   
   <p align="center">
   <b><em>Menambahkan Produk Baru</em></b><br>
