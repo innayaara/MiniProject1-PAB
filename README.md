@@ -44,5 +44,23 @@ Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar dan State Mana
 <br>
 </details>
 
+<details>
+<summary><b>1. Menambahkan Produk Baru</b></summary>
+<br>
+
+<div align="center">
+  <img width="865" alt="Halaman Utama" 
+  src="https://github.com/user-attachments/assets/652f130d-84bd-46cd-b25d-03ee71be220e" />
+  
+  <p align="center">
+  <b><em>Menambahkan Produk Baru</em></b><br>
+  Pengguna dapat menambahkan produk baru dengan mengisi nama produk, harga, dan stok melalui halaman form.
+  <br>
+  </p>
+
+</div>
+<br>
+</details>
+
 
 
