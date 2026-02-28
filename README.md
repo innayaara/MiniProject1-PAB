@@ -155,3 +155,41 @@ Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar dan State Mana
 <br>
 </details>
 
+---
+
+## 3. Widget yang Digunakan  
+
+Berikut adalah widget yang digunakan dalam pengembangan aplikasi **Nayo Boutique** beserta fungsinya:
+
+- **`MaterialApp`**: Digunakan sebagai root aplikasi yang menerapkan desain Material Design serta mengatur tema dan struktur dasar aplikasi.
+
+- **`Scaffold`**: Berfungsi sebagai kerangka utama halaman yang terdiri dari AppBar, Body, dan FloatingActionButton.
+
+- **`AppBar`**: Digunakan untuk menampilkan judul aplikasi pada bagian atas layar.
+
+- **`Column & Row`**:  
+  Column digunakan untuk menyusun widget secara vertikal, sedangkan Row digunakan untuk menyusun widget secara horizontal.
+
+- **`Container`**: Digunakan untuk mengatur ukuran, margin, padding, serta dekorasi pada tampilan.
+
+- **`Expanded`**: Digunakan agar ListView dapat menyesuaikan ruang yang tersedia pada layar.
+
+- **`ListView.builder`**: Digunakan untuk menampilkan daftar produk secara dinamis berdasarkan data yang tersedia.
+
+- **`Card`**: Digunakan untuk menampilkan informasi produk dalam bentuk kartu agar lebih terstruktur dan rapi.
+
+- **`Text`**: Digunakan untuk menampilkan teks seperti nama produk, harga, stok, dan pesan lainnya.
+
+- **`TextField`**: Digunakan pada halaman form untuk menerima input nama produk, harga, dan stok.
+
+- **`ElevatedButton`**: Digunakan sebagai tombol aksi seperti tombol Simpan dan Hapus.
+
+- **`IconButton`**: Digunakan untuk tombol edit dan hapus pada setiap produk.
+
+- **`FloatingActionButton`**: Digunakan untuk menambahkan produk baru.
+
+- **`AlertDialog`**: Digunakan untuk menampilkan konfirmasi sebelum menghapus produk.
+
+- **`SnackBar`**: Digunakan untuk menampilkan notifikasi setelah berhasil menambahkan atau menghapus produk.
+  
+- **`Image.asset`**: Digunakan untuk menampilkan banner gambar pada halaman utama aplikasi.
