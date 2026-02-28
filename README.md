@@ -1,4 +1,5 @@
-# Nayo Boutique
+# 🛍️ Nayo Boutique
+Aplikasi manajemen produk butik berbasis Flutter.
 
 | Nama                      | NIM           | Kelas             |
 |---------------------------|---------------|-------------------|
