@@ -162,22 +162,6 @@ Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar dan State Mana
 <br>
 </details>
 
-<details>
-<summary><b>8. State Management</b></summary>
-<br>
-
-<div align="center">
-  <p align="center">
-  <b><em>State Management</em></b><br>
-  Aplikasi menggunakan <b>StatefulWidget</b> dan <b>setState()</b> 
-  untuk mengelola perubahan data sehingga tampilan dapat diperbarui 
-  secara otomatis tanpa perlu memuat ulang halaman.
-  </p>
-
-</div>
-<br>
-</details>
-
 ---
 
 ## 3. Widget yang Digunakan  
@@ -216,3 +200,5 @@ Berikut adalah widget yang digunakan dalam pengembangan aplikasi **Nayo Boutique
 - **`SnackBar`**: Digunakan untuk menampilkan notifikasi setelah berhasil menambahkan atau menghapus produk.
   
 - **`Image.asset`**: Digunakan untuk menampilkan banner gambar pada halaman utama aplikasi.
+
+- **State Management (StatefulWidget & setState())**: Digunakan untuk mengelola perubahan data produk sehingga tampilan akan otomatis diperbarui ketika terjadi penambahan, pengeditan, atau penghapusan data.
