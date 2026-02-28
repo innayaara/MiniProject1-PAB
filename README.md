@@ -67,10 +67,10 @@ Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar dan State Mana
 <br>
 
 <div align="center">
-  <img width="942" height="1010" alt="image" 
-  src="https://github.com/user-attachments/assets/0652dbc5-0c8a-439d-ab4d-449e7f188803" />
+  
+  <img width="942" height="1010" alt="Screenshot 2026-02-28 135839" 
+  src="https://github.com/user-attachments/assets/d061c494-32a8-4e1c-a730-b489f96cb983" />
 
-<div align="center">
   <p align="center">
   <b><em>Menampilkan Daftar Produk</em></b><br>
   Aplikasi menampilkan daftar produk dalam bentuk card. 
@@ -87,6 +87,10 @@ Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar dan State Mana
 <br>
 
 <div align="center">
+
+  <img width="865" alt="Halaman Utama" 
+  src="https://github.com/user-attachments/assets/652f130d-84bd-46cd-b25d-03ee71be220e" />
+  
   <p align="center">
   <b><em>Empty State</em></b><br>
   Jika belum ada produk yang ditambahkan, aplikasi akan menampilkan pesan 
@@ -102,6 +106,10 @@ Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar dan State Mana
 <br>
 
 <div align="center">
+
+  <img width="940" height="528" alt="Screenshot 2026-02-28 140704" 
+  src="https://github.com/user-attachments/assets/3ffb999b-09b0-48e6-b11c-e17d3e8f5a4c" />
+
   <p align="center">
   <b><em>Mengedit Produk</em></b><br>
   Pengguna dapat mengubah data produk yang telah ditambahkan melalui tombol edit. 
@@ -117,6 +125,8 @@ Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar dan State Mana
 <br>
 
 <div align="center">
+
+  
   <p align="center">
   <b><em>Menghapus Produk</em></b><br>
   Pengguna dapat menghapus produk melalui tombol hapus. 
