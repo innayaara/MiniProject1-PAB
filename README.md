@@ -11,9 +11,9 @@ Aplikasi manajemen produk butik berbasis Flutter.
 
 Aplikasi Nayo Boutique merupakan aplikasi berbasis Flutter yang dibuat untuk mengelola data produk butik. Aplikasi ini memungkinkan pengguna untuk melakukan registrasi akun, login, menambahkan, mengedit, dan menghapus data produk secara dinamis.
 
-Setiap produk memiliki informasi berupa nama produk, harga, stok, dan foto produk. Data produk disimpan pada database menggunakan **Supabase**, sedangkan gambar produk disimpan pada **Supabase Storage**. Aplikasi ini juga menggunakan konsep **State Management** dengan **StatefulWidget** dan **setState()** untuk memperbarui tampilan secara real-time setelah terjadi perubahan data.
+Setiap produk memiliki informasi berupa nama produk, harga, stok, dan foto produk. Data produk disimpan pada database menggunakan Supabase, sedangkan gambar produk disimpan pada Supabase Storage. Aplikasi ini juga menggunakan konsep State Management dengan StatefulWidget dan setState() untuk memperbarui tampilan secara real-time setelah terjadi perubahan data.
 
-Aplikasi ini dibuat sebagai implementasi dari materi **Widget Dasar**, **State Management Dasar**, **Form Input**, **Navigasi Antar Halaman**, dan **Integrasi Backend** pada mata kuliah **Mobile Application Programming**, dengan tujuan memahami cara kerja perubahan state, autentikasi pengguna, serta pengelolaan data berbasis cloud.
+Aplikasi ini dibuat sebagai implementasi dari materi Widget Dasar, State Management Dasar, Form Input, Navigasi Antar Halaman, dan Integrasi Backend pada mata kuliah Mobile Application Programming, dengan tujuan memahami cara kerja perubahan state, autentikasi pengguna, serta pengelolaan data berbasis cloud.
 
 ---
 
