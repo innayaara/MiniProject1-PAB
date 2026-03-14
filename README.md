@@ -1,9 +1,9 @@
 # 🛍️ Nayo Boutique
 Aplikasi manajemen produk butik berbasis Flutter.
 
-| Nama                      | NIM           | Kelas             |
-|---------------------------|---------------|-------------------|
-| Indah Maramin Al Inayah   | 2409116086    | Sistem Informasi C 2024 |
+| ✨ Nama Lengkap              | 🆔 NIM        | 📚 Kelas                 |
+|------------------------------|---------------|--------------------------|
+| **Indah Maramin Al Inayah**  | 2409116086    | Sistem Informasi C 2024  |
 
 ---
 
